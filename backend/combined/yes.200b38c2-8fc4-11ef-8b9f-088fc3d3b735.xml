@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Collectedimg</folder>
+	<filename>yes.200b38c2-8fc4-11ef-8b9f-088fc3d3b735.jpg</filename>
+	<path>C:\Users\Rishi Narayana\RealTimeObjectDetection\Tensorflow\workspace\images\Collectedimg\yes.200b38c2-8fc4-11ef-8b9f-088fc3d3b735.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>170</ymin>
+			<xmax>260</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

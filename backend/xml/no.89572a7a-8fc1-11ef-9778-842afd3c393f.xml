@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.89572a7a-8fc1-11ef-9778-842afd3c393f.jpg</filename>
+	<path>D:\Yams\RealTimeObjectDetection\Tensorflow\workspace\images\collection\no\no.89572a7a-8fc1-11ef-9778-842afd3c393f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>381</ymin>
+			<xmax>338</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
